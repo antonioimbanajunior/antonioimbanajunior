@@ -1,7 +1,7 @@
 ### Hi there 👋
 estou aprendendo
 estou aprendendo e quero ser bom em github
-
+quero ser bom git e github
 
 Here are some ideas to get you started:
 
